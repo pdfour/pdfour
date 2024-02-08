@@ -1,12 +1,12 @@
  
-  -👋 Hi, I’m @pdfour
-  -👀 I’m interested in DataScience and Big Data
-  🌱 I’m currently learning deep learning programming and Big Data
-  📫 How to reach me : dufourpaul@cy-tech.fr
+  - 👋 Hi, I’m @pdfour
+  - 👀 I’m interested in DataScience and Big Data
+  - 🌱 I’m currently learning deep learning programming and Big Data
+  - 📫 How to reach me : dufourpaul@cy-tech.fr
 
 
 
-<
+<--
 **pdfour/pdfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
