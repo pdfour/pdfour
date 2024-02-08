@@ -1,6 +1,6 @@
  
-  👋 Hi, I’m @pdfour
-  👀 I’m interested in DataScience and Big Data
+  -👋 Hi, I’m @pdfour
+  -👀 I’m interested in DataScience and Big Data
   🌱 I’m currently learning deep learning programming and Big Data
   📫 How to reach me : dufourpaul@cy-tech.fr
 
